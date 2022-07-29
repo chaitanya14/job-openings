@@ -1,4 +1,4 @@
-# Full Stack Engineer Requirements (Grade 28)
+# Full Stack Engineer Requirements
 
 ## Description
 Full Stack Engineer
