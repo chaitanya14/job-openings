@@ -1,4 +1,4 @@
-# Stargate Team Engineer Requirements (Grade 28)
+# Software Engineer Requirements
 
 ## Description
 Platform Software Engineer, Kong API Gateway
